@@ -1,3 +1,3 @@
-# siberpy-medya
+# siber.py medya
 
-@siber.py Instagram hesabının paylaşım görselleri. Metricool bu dosyaları buradan alıp paylaşır.
+@siber.py paylaşımlarının görsel ve video dosyaları.
